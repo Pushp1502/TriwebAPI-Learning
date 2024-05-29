@@ -1,3 +1,5 @@
+
+
 class abc {
 	public static int area(int 1, int b){
 		return 1*b;
