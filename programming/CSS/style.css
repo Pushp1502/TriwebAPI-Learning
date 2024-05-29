@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+body { 
+	  background-color: lightblue;
+       border: 0.5px solid black;
+  	margin-top: 60px;
+  	margin-bottom: 100px;
+  	margin-right: 100px;
+  	margin-left: 100px;
+}
+h2 {
+  text-align: center;
+}
+input {
+  text-align: center;
+}
+</style>
+<body>
+
+<h2>Application Forms</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  	<input type="text"><br><br>
+  <label for="lname">Last name:</label><br>
+  	<input type="text"><br><br>
+  <label for="email">Email:</label><br>
+    <input type="text""number"><br><br>
+
+  <label for="number">Contact:</label><br>
+  	<input type="number"><br><br>
+  <label for="DOB">Date Of Birth:</label><br>
+  	<input type="text""number"><br><br>
+  <label for="number">Age:</label><br>
+  	<input type="number"><br><br>
+  <label for="gname">Gender:</label><br>
+  	<input type="text"><br><br>
+  <label for="document">Resume File:</label><br>
+  	<input type="pdf"><br><br>
+
+  <input type="submit" value="Submit">
+</form> 
+
+<p>After filling all details click on submit button to save your response.</p>
+
+</body>
+</html>
