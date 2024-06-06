@@ -148,7 +148,6 @@ input::placeholder{
     letter-spacing: 2px;
 }
 .open-slide{
-    top: 0;
     transform: translate(-50%,-150%) scale(1);
     visibility: visible; 
 }
