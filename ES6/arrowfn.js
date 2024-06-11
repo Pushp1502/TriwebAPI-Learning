@@ -20,7 +20,6 @@
 //const retobj = (uname, age) => ({uname:uname, age:age})
 //console.log(retobj("Alex", 30));
 // Example 3
-const addTwoNumber = (num1, num2) => num1+num2;
-console.log(addTwoNumber(2,4));
-
+//const addTwoNumber = (num1, num2) => num1+num2;
+//console.log(addTwoNumber(2,4));
 
