@@ -1,4 +1,4 @@
-// Numllish coallescing ?? vs or
+// Nullish coallescing ?? vs or
 
 function printsomething(value){
     printThis = value  || "Not found";
