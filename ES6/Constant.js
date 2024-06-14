@@ -15,10 +15,10 @@
 
 
 //Example 2
-const obj = {name: "hamad", age: "27"};
+const obj = {name: "ria", age: "27"};
 console.log("before", obj);
 
-//obj = {name: "ahmad", age: "32"};
+//obj = {name: "pria", age: "32"};
 //console.log("after", obj);
 
 obj.name ="hared";
