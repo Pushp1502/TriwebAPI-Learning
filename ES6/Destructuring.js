@@ -14,7 +14,7 @@
 //Object matching, shorthand notation
 // function getstarted(){
 //     let student = {
-//         sname: "Azhar",
+//         sname: "Alexender",
 //         age: "31",
 //         course: "bca",
 //     }
