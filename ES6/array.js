@@ -32,10 +32,10 @@
 
 // array findIndex()
 
-let arr = [12,13,14,15,16];
+let arr = [12,13,14,15,17];
 
 let indexofFirstOdd = arr.findIndex((value, index, ar)=>{
-    return value%2 !=0;
+    return value%2!=0;
 })
 
 console.log(indexofFirstOdd);
