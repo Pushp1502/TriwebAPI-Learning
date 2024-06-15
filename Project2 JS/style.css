@@ -1,0 +1,64 @@
+
+.main_div{
+    background: black;
+    width: 500px;
+    color: white;
+    margin: auto;
+}
+
+.user_div{
+    width: 250px;
+    height: 250px;
+}
+
+.red_div{
+    background: red;
+    float: left;
+}
+.green_div{
+    background: green;
+    /* display: inline-block; */
+    float: right;
+}
+.blue_div{
+    background: blue;
+    float: left;
+}
+.yellow_div{
+    background: yellow;
+    /* display: inline-block; */
+    float: right;
+}
+
+.user_block{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn_pro{
+    background-color: chocolate;
+    color: white;
+    border: 2px solid rgb(235, 236, 244);
+    height: 40px;
+    width: 200px;
+    margin: 10px 20px 10px 25px;
+}
+.input_pro{
+    background-color: none;
+    color: black;
+    border: 2px solid rgb(39, 2, 118);
+    height: 40px;
+    width: 200px;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+.my_user{
+    color: antiquewhite;
+    width: auto;
+    height: 20px;
+    font-size: larger;
+    font-weight: bold;
+    display: grid;
+    border: 3px dotted wheat;
+}
+
