@@ -1,0 +1,31 @@
+->// Basic commands //
+
+show dbs -- this command shows the list of database
+use <database name> -- this command create or switch to database
+db.createCollection(<collection name>)  -- this command create a new collection
+
+
+-> CRUD operations in MongoDB <--
+
+->// CREATE //
+- To insert data
+
+db.myfirstcollection.insertOne({name:"pooja", mobile:123456})
+db.myfirstcollection.insertMany([{name:"kumari",email:"agft@gmail"},{name:"pooja",mobile:123456,location:"India"}])
+
+->// RETRIEVE //
+-> To get or fetch data
+
+db.myfirstcollection.find({name:"Manol"})
+
+->// UPDATE // 
+-> To change the data
+
+db.myfirstcollection.updateOne({name:"Manol"},{$set:{mobile:5678}})
+
+->// DELETE //
+-> To remove the data
+
+db.myfirstcollection.deleteOne({name:"Manol"})
+db.myfirstcollection.deleteMany({})
+
