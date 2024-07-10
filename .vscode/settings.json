@@ -1,3 +1,10 @@
 {
     "liveServer.settings.port": 5501
 }
+
+
+{
+    ".vscode.exclude": {
+    "**/node_modules": true
+    }
+}
