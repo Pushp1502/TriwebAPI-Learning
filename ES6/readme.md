@@ -2,4 +2,4 @@
 
 ###### ECMAScript 2015: A significant update to JavaScript introducing features like classes, modules, arrow functions, and template literals.
 
-Here I practice exercises of javascript
+Here I practice exercises of Javascript
