@@ -12,20 +12,19 @@ and many more it is.
 
 ## Learning_Languages
 
-    - [HTML]: HTML and form-related exercises and projects
-    - [CSS](): CSS projects
-    - [JavaScript](): JavaScript exercises
-    - [ES2020](): ES2020 JavaScript exercises
-    - [ES6](): ES6 JavaScript exercises
-    - [MongoDB](): MongoDB exercises
-    - [MySQL](): SQL exercises
-    - [NodeJS](): NodeJS exercises
-    - [TypeScript](): TypeScript exercises
-    - [React](): React projects
-    - [Programming](): General programming exercises
+    - HTML: HTML and form-related exercises and projects
+    - CSS: CSS projects
+    - JavaScript: JavaScript exercises
+    - ES2020: ES2020 JavaScript exercises
+    - ES6: ES6 JavaScript exercises
+    - MongoDB: MongoDB exercises
+    - MySQL: SQL exercises
+    - NodeJS: NodeJS exercises
+    - TypeScript: TypeScript exercises
+    - Reac: React projects
+    - Programming: General programming exercises
 
 
-## Tech Stack
 
 
 
