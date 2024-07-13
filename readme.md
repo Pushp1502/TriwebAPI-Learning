@@ -1,4 +1,4 @@
-![Reference Image](/triweb/TriwebAPI.jpg)
+![Reference Image](/Triweb/TriwebAPI.jpg)
 
 # TriwebAPI-Learning
 
@@ -12,27 +12,27 @@ and many more it is.
 
 ## Learning_Languages
 
-HTML(HyperText Markup Language): Markup language used to create and structure content on the web
+HTML(HyperText Markup Language): Markup language, create and structure content.
 
-CSS(Cascading Style Sheets): A style sheet language used to describe the presentation and layout of web pages
+CSS(Cascading Style Sheets): Style sheet language used to describe the presentation.
 
-JavaScript: A programming language primarily used for interactive effects within web browsers
+JavaScript: Programming language primarily used for interactive effects
 
-ES2020(ECMAScript 2020): The ECMAScript standard, adding features like optional chaining and nullish coalescing
+ES2020(ECMAScript 2020): ECMAScript standard, adding features like optional chaining and nullish coalescing
 
-ES6(ECMAScript 2015): Update to JavaScript introducing features like classes, modules, arrow functions, and template literals
+ES6(ECMAScript 2015): Update to JavaScript introducing features like classes, modules, arrow functions.
 
-MySQL: Open-source relational database management system based on Structured Query Language-(SQL)
+MySQL: Open-source relational database management system based on SQL.
 
-MongoDB: NoSQL database known for its high performance, flexibility, and JSON-like document-oriented storage
+MongoDB: NoSQL database known for its high performance, flexibility.
 
-NodeJs: Runtime environment that allows JavaScript to be used on the server side to build scalable network applications
+NodeJs: Runtime environment that allows JavaScript to be used on the server side.
 
-TypeScript: Superset of JavaScript that adds static types, enhancing code quality and development
+TypeScript: Superset of JavaScript that adds static types, enhancing code quality.
 
-React: JavaScript library for building user interfaces, particularly single-page applications
+React: JavaScript library for building user interfaces, particularly.
 
-Programming: The process of designing and building executable computer software to accomplish specific tasks
+Programming: The process of designing and building executable computer software.
 
 
 
