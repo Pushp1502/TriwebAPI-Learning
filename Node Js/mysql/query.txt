@@ -1,0 +1,39 @@
+CREATE DATABASE mysql_workshop_2021;
+use mysql_workshop_2021;
+
+--------------------------------------------------------------
+create TABLE teacher(
+id int(11) NOT null AUTO_INCREMENT PRIMARY KEY, 
+teacher_name varchar(255) NOT null,
+mobile varchar(100) NOT null    
+)
+
+CREATE TABLE classes(
+id int(11) not null AUTO_INCREMENT,
+class_name varchar(100) not null,
+teacher_id int(11) NOT null,
+PRIMARY KEY(id),
+FOREIGN KEY(teacher_id) REFERENCES teacher(id)   
+)
+
+CREATE TABLE users(
+mobile int(11) not null,
+name varchar(100) not null,
+age int(11) NOT null,
+email varchar(100) not null,
+PRIMARY KEY(name)
+)
+--------------------------------------------------------------
+
+=> insert 
+INSERT INTO `users`(`Name`, `Email`, `password`, `Mobile`, `Age`) value('pushpa', 'amir@gmail.com', 'amir123', '88888', '45')
+
+=> select
+SELECT * FROM `users`;
+SELECT * FROM `users` WHERE email='ajay@gmail.com';
+
+=> update
+UPDATE `users` SET `password`='abcd' WHERE `email`='ajay@gmail.com';
+
+=> delete
+DELETE FROM `users` WHERE email='ajay@gmail.com'

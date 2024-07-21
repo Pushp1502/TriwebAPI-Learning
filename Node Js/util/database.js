@@ -2,9 +2,9 @@ const mysql = require('mysql2');
 
 const pool = mysql.createPool({
     host: "localhost",
-    database: "practice",
+    database: "Practice",
     user: "root",
     password: ""
-});
+}); 
 
-module.exports= pool.promise();
+module.exports = pool.promise();
