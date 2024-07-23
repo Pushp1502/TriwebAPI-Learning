@@ -16,9 +16,8 @@ module.exports.insert = async (userData) => {
         console.log(error);
     }
     return id;
-
+o
 }; 
 
 // module.exports.get = async(){
-
-// }
+// };
