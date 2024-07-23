@@ -33,5 +33,5 @@ const student = {
     'address':"India"
 };
 
-const {uname} = student;
-console.log(uname);
+const {uname, mobile, address} = student;
+console.log(uname, mobile, address);
