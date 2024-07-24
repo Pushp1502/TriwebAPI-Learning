@@ -1,3 +1,6 @@
+//What is the object destructuring?
+
+
 // const student = {
 //     'name': "Mine",
 //     'mobile': 82828282,
