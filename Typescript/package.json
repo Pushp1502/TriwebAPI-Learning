@@ -1,0 +1,21 @@
+{
+  "name": "Node_Project",
+  "version": "1.0.0",
+  "description": "This project contains NodeJs Rest API",
+  "main": "app.js",
+  "author": "Pushpanjali",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon app.js"
+  }
+}

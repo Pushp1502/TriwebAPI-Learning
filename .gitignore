@@ -3,3 +3,6 @@
 # Node artifact files
 node_modules/
 
+Models\controller/
+
+nodemon.json

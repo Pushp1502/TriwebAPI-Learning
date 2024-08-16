@@ -47,4 +47,3 @@ function student(sname, ...marks){
 const std1 = new student("Amit", 50, 54, 36, 32, 80);
 
 console.log(std1);
-
