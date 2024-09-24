@@ -1,0 +1,28 @@
+.game-board{
+  display: flex;
+  flex-direction: column;
+
+}
+.square{
+  color: darkblue;
+  width: 80px;
+  height: 80px;
+  float: left;
+  font-size: 30px;
+}
+
+.game{
+  display: flex;
+  justify-content: center;
+  padding-top: 200px;
+  min-height: 72vh;
+  background-image: url("../public/backgroundImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.status{
+  text-align: center;
+  font-size: 22px;
+  padding-bottom: 6px;
+}
